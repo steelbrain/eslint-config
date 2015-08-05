@@ -6,7 +6,7 @@
     "func-names": 0,
     "strict": [0, "never"],
     "no-param-reassign": 0,
-    "no-cond-assign": 0
+    "no-cond-assign": 0,
+    "no-shadow": 0
   }
 }
-
