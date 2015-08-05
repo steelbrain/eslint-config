@@ -1,0 +1,19 @@
+{
+  "name": "eslintrc",
+  "version": "0.0.1",
+  "description": "My personal eslintrc (steelbrain)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steelbrain/eslintrc.git"
+  },
+  "author": "steelbrain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steelbrain/eslintrc/issues"
+  },
+  "homepage": "https://github.com/steelbrain/eslintrc#readme"
+}
