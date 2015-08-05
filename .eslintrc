@@ -1,0 +1,10 @@
+{
+  "extends": "eslint-config-airbnb",
+  "rules": {
+    "no-extra-semi": 1,
+    "semi": 0,
+    "func-names": 0,
+    "strict": [0, "never"],
+  }
+}
+
