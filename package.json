@@ -1,5 +1,5 @@
 {
-  "name": "eslintrc",
+  "name": "eslint-config-steelbrain",
   "version": "0.0.1",
   "description": "My personal eslintrc (steelbrain)",
   "main": "index.js",
