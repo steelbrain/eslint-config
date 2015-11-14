@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-steelbrain",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "My personal eslintrc (steelbrain)",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/steelbrain/eslintrc/issues"
   },
-  "homepage": "https://github.com/steelbrain/eslintrc#readme"
+  "homepage": "https://github.com/steelbrain/eslintrc#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^1.0.0"
+  }
 }
