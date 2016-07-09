@@ -3,9 +3,6 @@
   "version": "0.0.3",
   "description": "My personal eslintrc (steelbrain)",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/steelbrain/eslintrc.git"
@@ -17,6 +14,9 @@
   },
   "homepage": "https://github.com/steelbrain/eslintrc#readme",
   "dependencies": {
-    "eslint-config-airbnb": "^1.0.0"
+    "babel-eslint": "^6.1.1",
+    "eslint": "^3.0.1",
+    "eslint-config-airbnb-base": "^4.0.0",
+    "eslint-plugin-import": "^1.10.2"
   }
 }
