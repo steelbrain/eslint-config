@@ -6,12 +6,15 @@ module.exports = {
   'rules': {
     'semi': [2, 'never'],
     'max-len': [1, 250],
+    'func-names': 0,
     'no-console': 0,
     'comma-dangle': 2,
     'prefer-template': 0,
     'import/no-unresolved': 0,
     'prefer-arrow-callback': 0,
     'generator-star-spacing': 0,
+    'space-before-function-paren': 0,
+    'import/no-extraneous-dependencies': 0,
   },
   'globals': {
     'atom': true,
