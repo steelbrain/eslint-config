@@ -11,10 +11,16 @@ module.exports = {
     'comma-dangle': 2,
     'prefer-template': 0,
     'import/no-unresolved': 0,
+    'no-restricted-syntax': [
+      2,
+      'DebuggerStatement',
+      'LabeledStatement',
+      'WithStatement',
+    ],
     'prefer-arrow-callback': 0,
     'generator-star-spacing': 0,
     'space-before-function-paren': 0,
-    'import/no-extraneous-dependencies': 0,
+    'import/no-extraneous-dependencies': 0
   },
   'globals': {
     'atom': true,
