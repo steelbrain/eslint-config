@@ -1,3 +1,7 @@
+#### 1.0.3
+
+- Pin dependencies
+
 #### 1.0.2
 
 - Remove for...in from restricted syntax
