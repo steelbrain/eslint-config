@@ -1,3 +1,7 @@
+#### 1.0.4
+
+- Upgrade `babel-eslint` to include fix of `no-shadow` for class properties
+
 #### 1.0.3
 
 - Pin dependencies
