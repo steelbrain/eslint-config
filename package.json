@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-steelbrain",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My personal eslintrc (steelbrain)",
   "main": "index.js",
   "repository": {
