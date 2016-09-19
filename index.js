@@ -17,12 +17,19 @@ module.exports = {
       'LabeledStatement',
       'WithStatement',
     ],
+    'no-plusplus': 0,
+    'no-continue': 0,
     'prefer-arrow-callback': 0,
+    'class-methods-use-this': 0,
     'generator-star-spacing': 0,
     'space-before-function-paren': 0,
     'import/no-extraneous-dependencies': 0
   },
   'globals': {
     'atom': true,
+  },
+  'env': {
+    'node': true,
+    'browser': true,
   }
 }
