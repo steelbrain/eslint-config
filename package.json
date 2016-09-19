@@ -15,8 +15,8 @@
   "homepage": "https://github.com/steelbrain/eslintrc#readme",
   "dependencies": {
     "babel-eslint": "6.1.2",
-    "eslint": "3.0.1",
-    "eslint-config-airbnb-base": "4.0.0",
-    "eslint-plugin-import": "1.10.2"
+    "eslint": "3.5.0",
+    "eslint-config-airbnb-base": "7.1.0",
+    "eslint-plugin-import": "1.15.0"
   }
 }
