@@ -1,6 +1,8 @@
 eslintrc
 ========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/eslint-config-steelbrain.svg)](https://greenkeeper.io/)
+
 My personal eslintrc, I've created a repo for it so I don't have to copy-paste this everywhere, install globally and extend it in projects.
 
 ### License
