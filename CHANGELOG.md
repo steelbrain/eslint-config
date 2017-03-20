@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.0.0
+
+- Add React rules
+- Add JSX-Accessibility rules
+- Upgrade to latest versions of all dependencies
+
 ### 2.0.0
 
 - Upgrade ESLint Import plugin
