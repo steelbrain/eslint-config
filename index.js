@@ -24,6 +24,11 @@ module.exports = {
     'generator-star-spacing': 'off',
     'space-before-function-paren': 'off',
     'import/no-extraneous-dependencies': 'off',
+    'import/extensions': 'off',
+    // ^ This is required for unresolved imports like "atom"
+    'react/sort-comp': 'off',
+    'react/jsx-filename-extension': 'off',
+    'jsx-a11y/href-no-hash': 'off',
   },
   'globals': {
     'atom': true,
