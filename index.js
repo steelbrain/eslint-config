@@ -29,6 +29,7 @@ module.exports = {
     'react/sort-comp': 'off',
     'react/jsx-filename-extension': 'off',
     'jsx-a11y/href-no-hash': 'off',
+    'no-await-in-loop': 'off'
   },
   'globals': {
     'atom': true,

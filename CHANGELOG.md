@@ -1,5 +1,9 @@
 # Changelog
 
+### 3.0.1
+
+- Disable the annoying `no-await-in-loop` rule
+
 ### 3.0.0
 
 - Add React rules
