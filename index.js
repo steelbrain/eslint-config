@@ -3,7 +3,8 @@
 module.exports = {
   parser: require.resolve('babel-eslint'),
   extends: [require.resolve('eslint-config-airbnb'), 'plugin:flowtype/recommended'],
-  'rules': {
+  plugins: [require.resolve('eslint-plugin-flowtype')],
+  rules: {
     'semi': ['error', 'never'],
     'max-len': ['warn', 250],
     'func-names': 'off',
@@ -18,11 +19,11 @@ module.exports = {
     'react/jsx-filename-extension': 'off',
     'jsx-a11y/href-no-hash': 'off',
   },
-  'globals': {
-    'atom': true,
+  globals: {
+    atom: true,
   },
-  'env': {
-    'node': true,
-    'browser': true,
+  env: {
+    node: true,
+    browser: true,
   },
 }
