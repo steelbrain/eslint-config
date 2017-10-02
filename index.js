@@ -1,9 +1,9 @@
 /* @flow */
 
 module.exports = {
-  parser: require.resolve('babel-eslint'),
-  extends: [require.resolve('eslint-config-airbnb'), 'plugin:flowtype/recommended'],
-  plugins: [require.resolve('eslint-plugin-flowtype')],
+  parser: 'babel-eslint',
+  extends: ['eslint-config-airbnb', 'plugin:flowtype/recommended'],
+  plugins: ['eslint-plugin-flowtype'],
   rules: {
     'semi': ['error', 'never'],
     'max-len': ['warn', 250],
