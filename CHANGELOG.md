@@ -1,5 +1,33 @@
 # Changelog
 
+### 4.0.0
+
+- Cut a stable release of recent changes
+
+### 4.0.0-5
+
+- Use names instead of absolute paths to fix issues with latest ESLint
+
+### 4.0.0-4
+
+- Readd flowtype
+
+### 4.0.0-3
+
+- Temporarily remove flowtype
+
+### 4.0.0-2
+
+- Add ESlint flowtype plugin
+
+### 4.0.0-1
+
+- Tweak several rules
+
+### 4.0.0-0
+
+- Upgrade all dependencies
+
 ### 3.0.1
 
 - Disable the annoying `no-await-in-loop` rule
