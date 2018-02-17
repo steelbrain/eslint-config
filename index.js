@@ -14,9 +14,8 @@ module.exports = {
     'prefer-arrow-callback': 'off',
     'class-methods-use-this': 'off',
     'generator-star-spacing': 'off',
-    'space-before-function-paren': 'off',
+    'space-before-function-paren': ['error', 'never'],
     'react/jsx-filename-extension': 'off',
-    'jsx-a11y/href-no-hash': 'off',
     'no-restricted-syntax': [
       'error',
       {
