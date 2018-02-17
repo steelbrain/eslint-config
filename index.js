@@ -34,9 +34,7 @@ module.exports = {
       },
     ],
   },
-  globals: {
-    atom: true,
-  },
+  globals: {},
   env: {
     node: true,
     browser: true,
