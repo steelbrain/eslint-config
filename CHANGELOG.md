@@ -1,5 +1,11 @@
 # Changelog
 
+### 5.0.0
+
+- Remove `atom` global
+- Upgrade everything
+- Include Prettier plugin/preset by default
+
 ### 4.0.0
 
 - Cut a stable release of recent changes
