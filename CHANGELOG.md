@@ -1,5 +1,9 @@
 # Changelog
 
+### 5.0.1
+
+- Add prettier so dependending packages don't have to install it themselves
+
 ### 5.0.0
 
 - Remove `atom` global
