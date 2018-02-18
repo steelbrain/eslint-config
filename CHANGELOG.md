@@ -1,8 +1,12 @@
 # Changelog
 
+### 5.0.2
+
+- Exclude `test` dir from published npm packages
+
 ### 5.0.1
 
-- Add prettier so dependending packages don't have to install it themselves
+- Add prettier so depending packages don't have to install it themselves
 
 ### 5.0.0
 
