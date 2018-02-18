@@ -1,11 +1,9 @@
 eslintrc
 ========
 
-My personal eslintrc, I've created a repo for it so I don't have to copy-paste this everywhere, install globally and extend it in projects.
+My personal eslintrc, I've created a repo for it so I don't have to copy-paste this everywhere.
 
 ## Installation
-
-This ESLint configuration installs the necessary plugins and the ESLint engine itself so you should not include them in your project. You should only ever need to install this configuration
 
 ```
 npm install --save-dev eslint-config-steelbrain
@@ -20,6 +18,10 @@ Then create a configuration file `.eslintrc.json` and fill it with the following
 ```
 
 and You're good to go! Happy ESLinting!
+
+## Installation Notes
+
+This ESLint configuration has the necessary plugins, even the **ESLint CLI** itself. So you should remove/not install it in your project, the flat - dependency installation will make sure the ESLint CLI from this package is accessible to `npm run` etc.
 
 ### License
 
