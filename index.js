@@ -5,16 +5,13 @@ module.exports = {
   extends: ['airbnb', 'plugin:flowtype/recommended', 'prettier', 'prettier/flowtype', 'prettier/react'],
   plugins: ['flowtype', 'prettier'],
   rules: {
-    semi: ['error', 'never'],
     'func-names': 'off',
     'no-console': 'off',
-    'comma-dangle': 'error',
     'no-plusplus': 'off',
     'no-continue': 'off',
     'prefer-arrow-callback': 'off',
     'class-methods-use-this': 'off',
     'generator-star-spacing': 'off',
-    'space-before-function-paren': ['error', 'never'],
     'react/jsx-filename-extension': 'off',
     'no-restricted-syntax': [
       'error',
@@ -32,6 +29,7 @@ module.exports = {
         message: '`with` is disallowed in strict mode because it makes code impossible to predict and optimize.',
       },
     ],
+    'prettier/prettier': 'error',
   },
   globals: {},
   env: {
