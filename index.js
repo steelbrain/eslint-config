@@ -1,5 +1,3 @@
-/* @flow */
-
 module.exports = {
   parser: 'babel-eslint',
   extends: ['airbnb', 'plugin:flowtype/recommended', 'prettier', 'prettier/flowtype', 'prettier/react'],
@@ -12,6 +10,7 @@ module.exports = {
     'prefer-arrow-callback': 'off',
     'class-methods-use-this': 'off',
     'generator-star-spacing': 'off',
+    'lines-between-class-members': 'off',
     'react/jsx-filename-extension': 'off',
     'no-restricted-syntax': [
       'error',

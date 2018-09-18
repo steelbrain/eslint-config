@@ -1,5 +1,9 @@
 # Changelog
 
+### 6.0.0
+
+- Upgrades Prettier, ESLint and other dependencies
+
 ### 5.0.2
 
 - Exclude `test` dir from published npm packages
