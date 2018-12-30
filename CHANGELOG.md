@@ -1,5 +1,9 @@
 # Changelog
 
+### 7.0.0 (beta)
+
+- Upgrades dependencies (semver-major)
+
 ### 6.0.0
 
 - Upgrades Prettier, ESLint and other dependencies
