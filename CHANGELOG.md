@@ -2,7 +2,7 @@
 
 ### 7.0.0
 
-- No changes since beta2
+- No changes since beta2 other than a prettier upgrade
 
 ### 7.0.0 (beta2)
 
