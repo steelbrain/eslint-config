@@ -1,5 +1,13 @@
 # Changelog
 
+### 7.0.0
+
+- No changes since beta2
+
+### 7.0.0 (beta2)
+
+- Upgrades dependencies (semver-major)
+
 ### 7.0.0 (beta)
 
 - Upgrades dependencies (semver-major)
