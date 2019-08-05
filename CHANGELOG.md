@@ -1,5 +1,10 @@
 # Changelog
 
+### 8.0.0 (beta1)
+
+- Remove flowtype and upgrade dependencies
+- Remove some rule overrides
+
 ### 7.0.0
 
 - No changes since beta2 other than a prettier upgrade
