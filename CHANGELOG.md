@@ -1,5 +1,9 @@
 # Changelog
 
+### 9.0.0
+
+- Add Typescript configuration and upgrade all dependencies
+
 ### 8.0.0 (beta1)
 
 - Remove flowtype and upgrade dependencies
