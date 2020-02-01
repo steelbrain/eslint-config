@@ -1,6 +1,13 @@
 module.exports = {
   parser: '@typescript-eslint/parser',
-  extends: ['airbnb', 'airbnb/hooks', 'prettier', 'prettier/react', 'plugin:@typescript-eslint/recommended'],
+  extends: [
+    'airbnb',
+    'airbnb/hooks',
+    require.resolve('eslint-plugin-import/config/typescript'),
+    'prettier',
+    'prettier/react',
+    'plugin:@typescript-eslint/recommended',
+  ],
   plugins: ['@typescript-eslint', 'prettier'],
   rules: {
     'func-names': 'off',
