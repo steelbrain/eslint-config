@@ -1,6 +1,6 @@
 # Changelog
 
-### Upcoming
+### 9.0.1
 
 - Configure ESLint plugin import to resolve TS properly
 
