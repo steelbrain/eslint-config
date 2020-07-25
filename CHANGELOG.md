@@ -1,5 +1,9 @@
 # Changelog
 
+### 9.0.2
+
+- Remove extension requirement when importing TS files
+
 ### 9.0.1
 
 - Configure ESLint plugin import to resolve TS properly

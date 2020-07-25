@@ -31,6 +31,17 @@ module.exports = {
     '@typescript-eslint/no-useless-constructor': 'error',
     // TS Indent config conflicts with our config.
     '@typescript-eslint/indent': 'off',
+    'import/extensions': [
+      'error',
+      'ignorePackages',
+      {
+        js: 'never',
+        mjs: 'never',
+        jsx: 'never',
+        ts: 'never',
+        tsx: 'never',
+      },
+    ],
   },
   globals: {},
   env: {
