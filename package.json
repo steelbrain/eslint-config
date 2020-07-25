@@ -3,6 +3,7 @@
   "version": "9.0.2",
   "description": "My personal eslintrc (steelbrain)",
   "main": "index.js",
+  "files": ["index.js"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/steelbrain/eslintrc.git"
