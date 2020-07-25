@@ -1,5 +1,10 @@
 # Changelog
 
+### 10.0.0 (beta1)
+
+- Upgrade all dependencies
+- Add a `peerDependency` on `typescript`
+
 ### 9.0.2
 
 - Remove extension requirement when importing TS files
