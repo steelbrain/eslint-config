@@ -1,7 +1,8 @@
 eslintrc
 ========
 
-My personal eslintrc, I've created a repo for it so I don't have to copy-paste this everywhere.
+My personal eslintrc, I've created a repo for it so I don't have to copy-paste this
+everywhere. It includes ESLint CLI, Prettier CLI, and Prettier ESLint config.
 
 ## Installation
 
@@ -21,7 +22,9 @@ and You're good to go! Happy ESLinting!
 
 ## Installation Notes
 
-This ESLint configuration has the necessary plugins, even the **ESLint CLI** itself. So you should remove/not install it in your project, the flat - dependency installation will make sure the ESLint CLI from this package is accessible to `npm run` etc.
+This ESLint configuration has the necessary plugins, even the **ESLint CLI** itself. So
+you should remove/not install it in your project, the flat dependency installation
+will make sure the ESLint CLI from this package is accessible to `npm run` etc.
 
 ### License
 
