@@ -21,6 +21,9 @@ module.exports = {
     // ^ Provided by typescript-eslint
     'no-unused-vars': 'off',
     // ^ Provided by typescript-eslint
+    '@typescript-eslint/ban-ts-comment': 'warn',
+    // Proper errors from bad values are caught by TSC
+    // This is too noisy to use in dev in the meanwhile
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/camelcase': 'off',
     // Fancy feature, not **required** and annoying in dev
