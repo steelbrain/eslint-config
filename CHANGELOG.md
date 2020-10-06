@@ -1,5 +1,9 @@
 # Changelog
 
+### 10.0.0
+
+- No changes from beta, published under stable
+
 ### 10.0.0 (beta2)
 
 - Fix Ban TS comments rule usage
