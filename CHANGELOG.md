@@ -1,5 +1,9 @@
 # Changelog
 
+### 11.0.0
+
+- Upgrade to Typescript v4
+
 ### 10.0.0
 
 - No changes from beta, published under stable
